@@ -18,6 +18,7 @@ const PageCacioppo = () => {
             <p>Paulo Dybala</p>
             <p>Bisogna fare il rebase -i e poi fare il merge. Non saprei se si può fare con una pull request.</p>
             <CacioppoButton />
+            <p>Si può "riavvolgere il tempo" con il comando git rebase nomebranch.</p>
         </>
     )
   };
