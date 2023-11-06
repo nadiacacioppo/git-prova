@@ -16,6 +16,7 @@ const PageCacioppo = () => {
             <p>Kevin Hart</p>
             <p>Paulo Dybala</p>
             <p>Bisogna fare il rebase -i e poi fare il merge. Non saprei se si può fare con una pull request.</p>
+            <p>Per cambiare il messaggio di una commit bisognare fare il rebase -i e sostituire il pick della commit interessata con reword e modificare il messaggio.</p>
         </>
     )
   };
