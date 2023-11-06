@@ -1,3 +1,4 @@
+import CacioppoButton from "../components/CacioppoButton";
 import LogoCacioppo from "../components/cacioppo/Logo";
 
 const PageCacioppo = () => {
@@ -16,6 +17,7 @@ const PageCacioppo = () => {
             <p>Kevin Hart</p>
             <p>Paulo Dybala</p>
             <p>Bisogna fare il rebase -i e poi fare il merge. Non saprei se si può fare con una pull request.</p>
+            <CacioppoButton />
         </>
     )
   };
